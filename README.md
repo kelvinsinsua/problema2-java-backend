@@ -14,7 +14,5 @@ mvn clean install
 
 ## Librerías utilizadas
 
-org.springframework.boot
-  - core
-  - web
-org.json v: 20200518
+- org.springframework.boot
+- org.json v: 20200518
